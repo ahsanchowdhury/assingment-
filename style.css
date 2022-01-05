@@ -1,0 +1,15 @@
+*{
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+    color: #333333;
+    letter-spacing: 3px;
+ }
+#intro-border{
+    border-left: 3px solid red;
+}
+h1{
+    font-size: 28px;
+}
+.mission{
+    color: #ffad5a;
+}
