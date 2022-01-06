@@ -9,6 +9,9 @@ section{
     width: 1200px;
     margin: 0px auto;
 }
+span{
+    margin:0px;
+}
 #intro-border{
     border-left: 3px solid red;
 }
@@ -35,6 +38,9 @@ h1{
     color: #fff;
     font-weight: bold;
     border-radius: 5px;
+}
+.button-common:hover{
+    background-color: #7a2929;
 }
 .more{
     margin-top: 30px;
@@ -71,13 +77,13 @@ h1{
 .section-2-part-3{
     background-color: #fff4d6;
 }
-.section-2-part-1 h2{
+.section-2-part-1 h4{
     color: #3837d4;
 }
-.section-2-part-2 h2{
+.section-2-part-2 h4{
     color: #898686;
 }
-.section-2-part-3 h2{
+.section-2-part-3 h4{
     color: #9771b4;
 }
 .section-3-part-1{
@@ -99,7 +105,7 @@ h1{
     width: 60%;
 }
 .section-3-part-2 {
-    margin-top: 150px;
+    margin-top: 100px;
 }
 .section-3-part-2 h3{
     font-size: 22px;
@@ -299,7 +305,7 @@ footer{
     background-color: #0b0d17;
     margin: 0px auto;
 }
-footer h2, p{
+footer h2,footer p{
     text-align: center;
     color: #fff;
 }
